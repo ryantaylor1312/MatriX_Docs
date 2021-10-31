@@ -1,6 +1,9 @@
+MATRIX
 <a href="https://top.gg/bot/888703143687381022">
   <img src="https://top.gg/api/widget/upvotes/888703143687381022.svg">
-</a> # MatriX_Docs
+</a> 
+
+# MatriX_Docs
 This is the documentation regarding our multi-purpose discord bot known as MatriX
 
 # Description
@@ -12,13 +15,19 @@ This is the documentation regarding our multi-purpose discord bot known as Matri
 
 ➤ Mention the bot to know it's prefix.
 
-➤ It's default prefix is $ but you can customize it as per your needs. 
+➤ It's default prefix is $ but you can customize it as per your needs.
 
-➤ There are many features like moderation, fun, games, utilities, music, etc. 
+➤ There are many features like moderation, fun, games, utilities, music, etc.
 
-➤ Many more will be added in future. It is still under development. 
+➤ Under the moderation group, it has commands like ban member, kick member, clear messages, etc.
 
-➤ We will try to make it more useful and user-friendly. 
+➤ In the music group, it has all sort of commands necessary to present in a basic music bot. The plus point of our bot is it has high quality sound with very less audio distortion.
+
+➤ Now regarding utilities, we have trivia utilities like question alerts, game alerts and pre-built accuracy commands.
+
+➤ Many more will be added in future. It is still under development.
+
+➤ We will try to make it more useful and user-friendly.
 
 ➤ You can join our support server.
 
