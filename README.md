@@ -1,5 +1,6 @@
 # MatriX_Docs
 This is the documentation regarding our multi-purpose discord bot known as MatriX
+
 <a href="https://top.gg/bot/888703143687381022">
   <img src="https://top.gg/api/widget/upvotes/888703143687381022.svg">
 </a>
