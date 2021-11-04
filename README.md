@@ -1,10 +1,10 @@
 <header>
     <h1>MATRIX - A Multi Purpose Discord Bot
-    <img scr="https://imgur.com/yKGlioN">
     </h1>
 <p>
     <a href="https://top.gg/bot/888703143687381022">
   <img src="https://top.gg/api/widget/upvotes/888703143687381022.svg">
+  <img scr="https://imgur.com/yKGlioN">
     </a>
 </p>
 </header>
