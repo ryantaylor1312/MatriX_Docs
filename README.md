@@ -17,13 +17,15 @@
 
 ➤ It's default prefix is $ but you can customize it as per your needs.
 
-➤ There are many features like moderation, fun, games, utilities, music, etc.
+➤ There are many features like moderation, fun, games, utilities, music, channel management, etc.
 
 ➤ Under the moderation group, it has commands like ban member, kick member, clear messages, etc.
 
 ➤ In the music group, it has all sort of commands necessary to present in a basic music bot. The plus point of our bot is it has high quality sound with very less audio distortion.
 
 ➤ Now regarding utilities, we have trivia utilities like question alerts, game alerts and pre-built accuracy commands.
+
+➤ In channel management section, text and voice channel creation and deletion are available.
 
 ➤ Many more will be added in future. It is still under development.
 
