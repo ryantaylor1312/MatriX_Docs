@@ -34,6 +34,33 @@
 
 ➤ Your suggestions and requested will be considered by our team.
 
+LIST OF COMMANDS
+
+🔹General (Alias : gen)
+ ➾Ping ➾MemberCount ➾UserInfo ➾ServerInfo ➾Avatar ➾Invite ➾Support ➾Vote ➾BotInfo
+ 
+🔹Moderation (Alias : mod)
+➾Purge ➾Kick ➾Ban
+
+🔹Channel (Alias : cha)
+➾CreateChannel ➾DeleteChannel ➾CreateVC ➾DeleteVC
+
+🔹Giveaway (Alias : giv)
+➾Giveaway ➾Reroll
+
+🔹Admin (Alias : adm)
+➾Setprefix ➾Quote ➾Image ➾Announce ➾Say
+
+🔹Math (Alias : mat)
+➾Addition ➾Subtraction ➾Multiplication ➾Division ➾Power ➾Square ➾SquareRoot ➾Hypotenuse
+
+🔹Music (Alias : mus)
+➾Play ➾Pause ➾Resume ➾Stop ➾Search ➾NowPlaying ➾Volume ➾Skip ➾Skipto ➾Queue ➾Loop ➾Shuffle ➾Move ➾Remove
+
+🔹Trivia Utility (Alias : tul)
+➾Question ➾Accuracy ➾GameAlert ➾VedantuAlert ➾HqAlert ➾SwagbucksAlert ➾QuizOleAlert
+
+
 🢚 Bot Profile Picture : https://imgur.com/yKGlioN
 
 🢚 Support Server Link : https://discord.com/invite/jrdN5Vb2wq
