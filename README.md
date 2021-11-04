@@ -36,28 +36,28 @@
 
 LIST OF COMMANDS
 
-🔹General (Alias : gen)
+🔹General Commands
  ➾Ping ➾MemberCount ➾UserInfo ➾ServerInfo ➾Avatar ➾Invite ➾Support ➾Vote ➾BotInfo
  
-🔹Moderation (Alias : mod)
+🔹Moderation Commands
 ➾Purge ➾Kick ➾Ban
 
-🔹Channel (Alias : cha)
+🔹Channel Manager Commands
 ➾CreateChannel ➾DeleteChannel ➾CreateVC ➾DeleteVC
 
-🔹Giveaway (Alias : giv)
+🔹Giveaway Commands
 ➾Giveaway ➾Reroll
 
-🔹Admin (Alias : adm)
+🔹Administration Commands
 ➾Setprefix ➾Quote ➾Image ➾Announce ➾Say
 
-🔹Math (Alias : mat)
+🔹Basic Mathematics Commands
 ➾Addition ➾Subtraction ➾Multiplication ➾Division ➾Power ➾Square ➾SquareRoot ➾Hypotenuse
 
-🔹Music (Alias : mus)
+🔹Music Commands
 ➾Play ➾Pause ➾Resume ➾Stop ➾Search ➾NowPlaying ➾Volume ➾Skip ➾Skipto ➾Queue ➾Loop ➾Shuffle ➾Move ➾Remove
 
-🔹Trivia Utility (Alias : tul)
+🔹Trivia Utility Commands
 ➾Question ➾Accuracy ➾GameAlert ➾VedantuAlert ➾HqAlert ➾SwagbucksAlert ➾QuizOleAlert
 
 
