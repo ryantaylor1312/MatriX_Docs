@@ -34,7 +34,7 @@
 
 ➤ Your suggestions and requested will be considered by our team.
 
-LIST OF COMMANDS
+# List of Commands
 
 🔹General Commands
 
