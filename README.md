@@ -1,5 +1,5 @@
 <header>
-    <h1>MATRIX</h1>
+    <h1>MATRIX - A Multi-Purpose Bot</h1>
 <p>
     <a href="https://top.gg/bot/888703143687381022">
   <img src="https://top.gg/api/widget/upvotes/888703143687381022.svg">
