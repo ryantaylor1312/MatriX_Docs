@@ -1,7 +1,7 @@
 <header>
     <h1>MATRIX - A Multi Purpose Discord Bot
     </h1>
-    <script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+    
 <p>
     <a href="https://top.gg/bot/888703143687381022">
   <img src="https://top.gg/api/widget/upvotes/888703143687381022.svg">
