@@ -66,6 +66,10 @@
 
 ➾Play ➾Pause ➾Resume ➾Stop ➾Search ➾NowPlaying ➾Volume ➾Skip ➾Skipto ➾Queue ➾Loop ➾Shuffle ➾Move ➾Remove
 
+🔹Utility Commands
+
+➾Poll ➾Remind
+
 🔹Trivia Utility Commands
 
 ➾Question ➾Accuracy ➾GameAlert ➾VedantuAlert ➾HqAlert ➾SwagbucksAlert ➾QuizOleAlert
