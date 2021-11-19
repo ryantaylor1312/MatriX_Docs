@@ -36,6 +36,9 @@
 
 ➤ Your suggestions and requested will be considered by our team.
 
+🢚 Support Server Link : https://discord.com/invite/jrdN5Vb2wq
+
+
 # List of Commands
 
 🔹General Commands
@@ -74,7 +77,3 @@
 
 ➾Question ➾Accuracy ➾GameAlert ➾VedantuAlert ➾HqAlert ➾SwagbucksAlert ➾QuizOleAlert
 
-
-🢚 Bot Profile Picture : https://imgur.com/yKGlioN
-
-🢚 Support Server Link : https://discord.com/invite/jrdN5Vb2wq
