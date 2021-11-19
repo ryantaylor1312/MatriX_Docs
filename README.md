@@ -1,5 +1,7 @@
 <header>
-    <h1>MATRIX - A Multi Purpose Discord Bot
+    <h1><a href="https://top.gg/bot/888703143687381022">
+  <img src="https://i.imgur.com/19JQUOu.gif">
+    </a>MATRIX - A Multi Purpose Discord Bot
     </h1>
     
 <p>
