@@ -63,7 +63,7 @@
 
 🔹Basic Mathematics Commands
 
-➾Addition ➾Subtraction ➾Multiplication ➾Division ➾Power ➾Square ➾SquareRoot ➾Hypotenuse
+➾Addition ➾Subtraction ➾Multiplication ➾Division ➾Power ➾Square ➾SquareRoot ➾Hypotenuse ➾Evaluate
 
 🔹Music Commands
 
