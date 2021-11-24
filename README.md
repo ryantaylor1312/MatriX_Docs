@@ -75,5 +75,5 @@
 
 🔹Trivia Utility Commands
 
-➾Question ➾Accuracy ➾GameAlert ➾VedantuAlert ➾HqAlert ➾SwagbucksAlert ➾QuizOleAlert
+➾Question ➾Accuracy ➾EditAccuracy ➾GameAlert ➾VedantuAlert ➾HqAlert ➾SwagbucksAlert ➾QuizOleAlert
 
