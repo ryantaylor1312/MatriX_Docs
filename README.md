@@ -36,7 +36,7 @@
 
 ➤ Your suggestions and requested will be considered by our team.
 
-🢚 Support Server Link : https://discord.com/invite/jrdN5Vb2wq
+🢚 Support Server Link : https://discord.gg/jq4CZARFve
 
 
 # List of Commands
@@ -73,7 +73,15 @@
 
 ➾Poll ➾Remind
 
+🔹Fun Commands
+
+➾ Leap
+
 🔹Trivia Utility Commands
 
 ➾Question ➾Accuracy ➾EditAccuracy ➾GameAlert ➾VedantuAlert ➾HqAlert ➾SwagbucksAlert ➾QuizOleAlert
+
+🔹Support Commands
+
+➾Invite ➾Support ➾Vote ➾Suggest
 
