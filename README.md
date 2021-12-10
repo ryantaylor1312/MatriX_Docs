@@ -10,9 +10,7 @@
 
 # Description
 
-➤ It is a multi-purpose discord bot.
-
-➤ It is owned by Ryan Taylor & Zeus.
+➤ It is a multi-purpose discord bot which is owned by Ryan Taylor & Zeus.
 
 ➤ Mention the bot to know it's prefix.
 
