@@ -43,7 +43,7 @@
 
 🔹General Commands
 
- ➾Ping ➾MemberCount ➾UserInfo ➾ServerInfo ➾Avatar ➾Invite ➾Support ➾Vote ➾BotInfo
+ ➾Ping ➾MemberCount ➾UserInfo ➾ServerInfo ➾Avatar ➾BotInfo
  
 🔹Moderation Commands
 
