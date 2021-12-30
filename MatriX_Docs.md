@@ -12,7 +12,7 @@
 
 ➤ It is a multi-purpose discord bot which is owned by Ryan Taylor & Zeus.
 
-➤ It's prefix is $ or one can mention the bot as a prefix, ie. like @MatriX <command_name> or $<command_name>
+➤ It's prefix is $ or one can mention the bot as a prefix, i.e. like @MatriX <command_name> or $<command_name>
 
 ➤ There are many features like moderation, fun, games, utilities, music, channel management, etc.
 
