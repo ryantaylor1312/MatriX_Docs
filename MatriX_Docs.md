@@ -3,6 +3,8 @@
 <p>
     <a href="https://top.gg/bot/888703143687381022">
   <img src="https://top.gg/api/widget/upvotes/888703143687381022.svg">
+  <iframe src="https://discord.com/widget?id=898835248350134304&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
+  </iframe>
     </a>
 </p>
 </header>
@@ -32,7 +34,6 @@
 ➤ Your suggestions and requested will be considered by our team.
 
 🢚 Support Server Link : https://discord.gg/jq4CZARFve
-<iframe src="https://discord.com/widget?id=898835248350134304&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 
 # List of Commands
